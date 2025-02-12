@@ -17,10 +17,9 @@ Here are some of the courses and certifications I have completed:
 - **[Desarrollador de Videojuegos](#)** – Issued by [Escuela de Formación Laboral], [2023]  
   - 🏆 Certification: [View PDF](https://github.com/Darkaraus/Darkaraus/blob/main/Certifications/Desarrollador%20de%20Videojuegos.pdf)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bruno agustin lopez storani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno agustin lopez storani" height="30" width="40" /></a>
-</p>
+## 📫 How to Reach Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-agustin-lopez-storani-7180492a5/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkaraus@gmail.com)  
 
 ## 🚀 Languages & Tools  
 
