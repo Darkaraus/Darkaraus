@@ -10,11 +10,11 @@
 
 Here are some of the courses and certifications I have completed:  
 
-- **[Front End](#)** – Issued by [ITMaster Academy], [2023]  
+- **[Front End]** – Issued by [ITMaster Academy], [2023]  
   - 🏆 Certification: [View PDF](https://github.com/Darkaraus/Darkaraus/blob/main/Certifications/Front%20End.pdf)  
-- **[Introducción a la Programación con Python](#)** – Issued by [FAMAF], [2022]  
+- **[Introducción a la Programación con Python]** – Issued by [FAMAF], [2022]  
   - 🏆 Certification: [View PDF](https://github.com/Darkaraus/Darkaraus/blob/main/Certifications/introduccion%20a%20la%20Programacion%20con%20Python.PDF)
-- **[Desarrollador de Videojuegos](#)** – Issued by [Escuela de Formación Laboral], [2023]  
+- **[Desarrollador de Videojuegos]** – Issued by [Escuela de Formación Laboral], [2023]  
   - 🏆 Certification: [View PDF](https://github.com/Darkaraus/Darkaraus/blob/main/Certifications/Desarrollador%20de%20Videojuegos.pdf)  
 
 ## 📫 How to Reach Me  
